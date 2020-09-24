@@ -1,0 +1,64 @@
+.sub{
+    text-align:center;
+}
+.hed{
+   padding-top:10px; 
+}
+
+.hed4{
+    font-size:30px;
+    color:white;
+    text-align: center;
+}
+.sub2{
+    color:#fff;
+    
+}
+.par1{
+    font-size:20px;
+    font-style: bold;
+    text-align:center;
+}
+.par2{
+    font-size:40px;
+    text-align:center;
+}
+.im1{
+    margin-left:250px;
+  
+}
+.tem{
+    font-size:40px;
+    font-style: bold;
+    margin-left:240px;
+    color:green;
+    
+}
+.details{
+   
+    display: inline-block;
+    text-align: center;
+    
+}
+
+.details img{
+    border-radius: 50%;
+    display: inline;
+    margin-left:240px;
+   
+  
+}
+.caption{
+    display:block;
+    padding-left:270px;
+    font-size: 20px;
+    font-weight:bold;
+
+}
+.caption p{
+    font-size:14px;
+}
+
+
+
+
